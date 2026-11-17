@@ -1,0 +1,12 @@
+{
+  "name": "sem3-marks-tools-aditya",
+  "version": "1.0.0",
+  "description": "Simple marks and grade helper functions for students",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["marks", "percentage", "grade", "student"],
+  "author": "Aditya Dhinakaran",
+  "license": "MIT"
+}
